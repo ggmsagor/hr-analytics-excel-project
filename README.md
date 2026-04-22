@@ -68,5 +68,17 @@ This project analyzes HR data to understand employee trends, performance, and or
 
 ---
 
+## 🎓 Research Relevance
+
+This project aligns with my research interests in:
+
+- HR Analytics  
+- Employee Performance & Wellbeing  
+- Data-driven HR decision-making  
+
+It serves as a foundation for future empirical research using real organizational data.
+
+---
+
 ## 📌 Conclusion
 This project is part of my learning journey in HR Analytics and Data Analysis.
