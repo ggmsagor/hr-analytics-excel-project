@@ -33,7 +33,7 @@ This project analyzes HR data to understand employee trends, performance, and or
 ---
 
 ## 📷 Current Progress
-(Add screenshot of your pivot tables / partial dashboard)
+(pivot tables / partial dashboard) screenshots will be added
 
 ---
 
