@@ -32,8 +32,25 @@ This project analyzes HR data to understand employee trends, performance, and or
 
 ---
 
+## 📊 Key HR Metrics (Planned / Partial)
+
+- Employee Distribution by Department  
+- Performance Score Analysis  
+- Absenteeism Trends (if data available)  
+- Turnover Indicators (if applicable)  
+
+---
+
 ## 📷 Current Progress
 (pivot tables / partial dashboard) screenshots will be added
+
+---
+
+## 🔍 Initial Insights
+
+- Certain departments show higher employee concentration, indicating resource allocation imbalance.  
+- Preliminary analysis suggests variation in performance across departments.  
+- Early patterns indicate potential areas for deeper HR investigation.  
 
 ---
 
